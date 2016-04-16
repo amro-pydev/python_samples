@@ -1,3 +1,3 @@
 # python_samples
 
-These are a list of python codes examples.
+Sample code for different packages in python.
